@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project on a year of e-commerce orders (January to December 2023). I started with four messy raw tables, cleaned them with Python (pandas), combined everything into one analysis-ready table, and built a dashboard in Power BI to look at sales, returns, regions, products and payment methods.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
